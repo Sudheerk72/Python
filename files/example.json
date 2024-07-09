@@ -1,0 +1,7 @@
+ {
+       "people": [
+         {"name": "Sudheer", "age": 24, "city": "New York"},
+         {"name": "Krishna", "age": 25, "city": "Los Angeles"},
+         {"name": "Harsha", "age": 38, "city": "Chicago"}
+       ]
+     }
